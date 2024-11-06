@@ -52,7 +52,3 @@ let product = [
 ];
 
 module.exports = product;
-function displayProducts() {
-    const output = document.getElementById('output');
-    output.textContent = JSON.stringify(product, null, 2);
-}
