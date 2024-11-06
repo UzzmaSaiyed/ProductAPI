@@ -1,0 +1,1 @@
+GET: https://product-api-chi-lake.vercel.app/api/product
